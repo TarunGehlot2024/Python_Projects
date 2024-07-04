@@ -1,0 +1,2 @@
+In These Project are to be used Python Different Liberies Numpy Pandas Seaborn Matplotlib are to be used have data analyses  how married Women who Age group 26-35 From Different States Up, Maharastra, and Karnataka
+Working On the IT HealthCare and Avaiation are More likely to buy the Products  from The Food,Clothing and Electronics category and how to profit in future to Company to be have the Data analyses 
